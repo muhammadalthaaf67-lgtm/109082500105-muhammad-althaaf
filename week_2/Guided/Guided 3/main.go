@@ -25,7 +25,7 @@ func main() {
 		fmt.Scan(&angka)
 		if angka%2 == 0 {
 			fmt.Println("angka genap")
-		} else if angka%2 != 0 {
+		} else if  angka%2 != 0 {
 			fmt.Println("angka ganjil")
 		}
 	default:
