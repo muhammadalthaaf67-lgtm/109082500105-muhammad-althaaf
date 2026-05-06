@@ -15,4 +15,3 @@ func baris(bilangan int) {
 		baris(bilangan - 1)
 	}
 }
-
